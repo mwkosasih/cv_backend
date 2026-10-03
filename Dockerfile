@@ -17,6 +17,6 @@ WORKDIR /app
 COPY --from=builder /app/server .
 COPY --from=builder /app/resources ./resources
 
-EXPOSE 8081
+EXPOSE 7860 8081 8082
 
 CMD ["./server"]
