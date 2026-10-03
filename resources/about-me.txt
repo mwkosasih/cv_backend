@@ -1,0 +1,72 @@
+# About Me — Mohammad Wildan Kosasih
+> Personal profile and background extension beyond software engineering.
+
+---
+
+## 1. Personal Overview
+
+- **Full Name**: Mohammad Wildan Kosasih
+- **Year of Birth**: 1995
+- **Place of Birth / Origin**: Cirebon Regency, West Java, Indonesia
+- **Nationality**: Indonesian
+- **Belief / Religion**: Muslim (values respect, integrity, and humility; communicated naturally and universally without excessive religious jargon)
+- **Current Base**: Indonesia
+
+---
+
+## 2. Personal Interests & Hobbies
+
+### 🎬 Anime Enthusiast
+An avid anime watcher who appreciates compelling storytelling, strong character development, epic world-building, and thoughtful narratives across multiple genres:
+
+- **Classic & Modern Shonen / Action**:
+  - *Naruto*
+  - *One Piece*
+  - *Bleach*
+  - *Hunter x Hunter*
+  - *Attack on Titan (Shingeki no Kyojin)*
+  - *Jujutsu Kaisen*
+  - *Demon Slayer (Kimetsu no Yaiba)*
+  - *Solo Leveling*
+  - *Vinland Saga*
+- **Fantasy & Adventure**:
+  - *Frieren: Beyond Journey's End (Sousou no Frieren)*
+  - *Mushoku Tensei: Jobless Reincarnation*
+- **Psychological, Mystery & Drama**:
+  - *Death Note*
+  - *Erased (Boku dake ga Inai Machi)*
+  - *A Silent Voice (Koe no Katachi)*
+- **Comedy, Romance & Slice of Life**:
+  - *Kaguya-sama: Love is War*
+  - *KonoSuba: God's Blessing on this Wonderful World!*
+  - *Gintama*
+  - *The Pet Girl of Sakurasou (Sakura-sou no Pet na Kanojo)*
+  - *Nisekoi*
+- *...and many more.*
+
+---
+
+### 🎮 Gaming
+Enjoys gaming during downtime as a way to challenge strategic thinking, unwind, and explore creative worlds:
+
+- **Competitive & Strategy**:
+  - **Dota 2** *(Most played game)* — enjoys the deep team dynamics, strategic decision-making, and high-concurrency game mechanics.
+- **Sandbox, Adventure & Cozy Simulation**:
+  - **Terraria** — loves the exploration, crafting progression, and boss battles.
+  - **Stardew Valley** — relaxes with farming, community building, and peaceful sandbox gameplay.
+- *...and more.*
+
+---
+
+## 3. Dreams & Life Aspirations
+
+- **Traveling the World with Family**:
+  - One of my biggest life dreams and personal goals is to travel around the world together with my family.
+  - Experiencing diverse cultures, discovering scenic landscapes across continents, trying authentic global cuisines, and creating lasting memories with loved ones are things I deeply cherish and work hard toward.
+
+---
+
+## 4. Personal Philosophy & Vibe
+
+- **Grounded & Approachable**: Easy-going, curious, and humble both in and out of the workspace.
+- **Life Balance**: When stepping away from terminal windows and distributed architectures, time is best spent with family, enjoying good anime, or diving into a solid match of Dota 2.

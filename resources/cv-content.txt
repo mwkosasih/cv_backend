@@ -1,0 +1,112 @@
+Curriculum Vitae
+📄 Mohammad Wildan Kosasih's CV
+
+Mohammad Wildan Kosasih
+Backend Engineer • Go (Golang) • Building Scalable & Reliable Backend Systems
+Indonesia
++62 856-9366-9469
+mwkosasih@gmail.com
+mohammad-wildan-kosasih
+About me
+Backend Engineer specializing in Golang with a strong focus on building scalable, reliable, and maintainable backend systems.
+Passionate about solving complex backend engineering problems, high-concurrency architectures, and continuous technical growth.
+Experienced across fintech, point-of-sale, and high-load web ecosystems, with a track record of driving monolithic-to-microservices migrations and vendor-to-in-house system transitions.
+Pragmatic approach to engineering: building clean, testable systems while carefully balancing architectural elegance with real-world trade-offs.
+
+What / Where I want to be
+I am looking for an engineering environment that champions technical excellence, encourages thoughtful architectural discussions, and fosters continuous learning.
+I thrive on taking ownership of mission-critical services, solving challenging throughput and data consistency bottlenecks, and collaborating with cross-functional teams to build impactful products.
+
+Email / LinkedIn / Mobile
+
+Technical Skills & Stack
+Languages & Core
+Golang (Go)
+PHP
+JavaScript
+SQL
+Architecture & Design
+Microservices
+System Design
+Database Design
+REST & gRPC APIs
+Distributed Systems
+Databases & Caching
+PostgreSQL
+TimescaleDB
+Redis
+MySQL
+Messaging & Streaming
+Apache Kafka
+NATS
+AWS SQS
+WebSockets
+GCP Pub/Sub
+Cloud & DevOps
+Kubernetes
+AWS
+GCP
+Git
+Observability & AI
+Grafana
+NewRelic
+LLM Integrations
+Experience
+Stockbit
+May 2021 – Present (5+ years) • Indonesia
+Back End Developer
+As a Backend Engineer at Stockbit, I design, develop, and maintain core backend services that support critical financial operations, including user balance management, high-volume deposits, and withdrawals. I focus on building reliable, scalable, and maintainable systems while ensuring every transaction is processed accurately and consistently.
+
+Notable Activities & Contributions:
+PHP to Go Migration: Successfully migrated legacy backend services from PHP to Go, improving system maintainability, operational efficiency, and overall throughput.
+Monolith to Microservices Transition: Contributed strategically to decomposing monolithic services into microservices, enabling better service isolation, higher availability, and streamlined team workflows.
+Direct IDX Price Feed Integration: Migrated the real-time stock price data feed from third-party vendor platforms to a direct, low-latency integration with the Indonesia Stock Exchange (IDX).
+Stockbit Intraservices System Migration: Migrated the Stockbit Securities Intraservices system from an external third-party vendor solution to an internally developed, maintained, and optimized system.
+User Balance Management: Developed and maintained critical backend services responsible for user balance calculations, deposit processing, withdrawal processing, and balance adjustments with strict transactional consistency.
+Technologies Used: Golang, Kubernetes, AWS, PostgreSQL, TimescaleDB, Redis, Kafka, NATS, SQS, WebSockets, Git, Grafana.
+Qasir.id
+June 2019 – May 2021 (2 years) • Indonesia
+Back End Developer
+Engineered backend systems for Qasir POS, empowering tens of thousands of retailers across Indonesia with reliable transaction processing and store management tools.
+
+Notable Activities & Contributions:
+Built and maintained core transaction and inventory features for the Qasir POS mobile and web platforms.
+Revamped the monolithic API architecture into scalable microservices and led the transition of legacy PHP endpoints to Go.
+Technologies Used: Golang, PHP, GCP, PostgreSQL, MySQL, Redis, Kafka, Cloud Pub/Sub, Git, NewRelic.
+RajaMobil.com
+February 2018 – June 2019 (1 year 5 months) • Indonesia
+Full Stack Developer
+Notable Activities & Contributions:
+Developed and shipped new features for MY.Rajamobil.com to assist automotive dealers and sales representatives.
+Architected and built the administrative management panel for the mobibagus.com portal.
+Technologies Used: Golang, PHP, Yii Framework, GCP, MySQL, Redis, AngularJS.
+PT EDI Indonesia
+January 2017 – February 2018 (1 year 2 months) • Indonesia
+Full Stack Developer
+Notable Activities & Contributions:
+Built and maintained enterprise Procurement Request systems for the company.
+Technologies Used: PHP, CodeIgniter Framework, MySQL, Redis.
+Surya Putra Sukses
+September 2014 – January 2017 (2 years 5 months) • Indonesia
+Full Stack Developer
+Notable Activities & Contributions:
+Built and maintained comprehensive enterprise software systems:
+Clinic Management System
+Retail Management System
+School Management System
+Human Resource Management System (HRMS)
+Procurement Request System
+Local Tax Payment System
+Technologies Used: PHP, MySQL, JavaScript.
+Certifications
+Rest API (Intermediate) Certificate
+HackerRank Certification • https://www.hackerrank.com/certificates/87c5a66ec989
+Problem Solving (Basic) Certificate
+HackerRank Certification • https://www.hackerrank.com/certificates/9e06391dfb4e
+Education
+PASIM National University
+Associate's Degree (A.Md.), Management Information Systems, General • 2013 – 2016
+Mohammad Wildan Kosasih — Backend Engineer | Go (Golang)
+
+
+Chat with AI Twin

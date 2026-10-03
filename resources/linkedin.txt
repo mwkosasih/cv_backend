@@ -1,0 +1,148 @@
+Contact
+Indonesia
+085693669469 (Mobile)
+mwkosasih@gmail.com
+www.linkedin.com/in/mohammad-wildan-kosasih (LinkedIn)
+
+Top Skills
+Backend Development
+Microservices
+REST & gRPC APIs
+Golang
+PHP
+JavaScript
+Database Design
+System Design
+Kubernetes
+AWS
+PostgreSQL
+Timescale
+Redis
+Kafka
+NATS
+SQS
+Websocket
+Git
+Grafana
+LLM
+
+Certifications
+Rest API (Intermediate)
+Problem Solving (Basic) Certificate
+
+Mohammad Wildan Kosasih
+Backend Engineer | Go (Golang) | Building Scalable & Reliable Backend Systems
+Indonesia
+
+Summary
+I'm a Backend Engineer specializing in Golang, with a focus
+on building scalable, reliable, and maintainable backend systems. I
+enjoy solving backend engineering problems and always interested
+in learning.
+
+Experience
+Stockbit
+Back End Developer
+May 2021 - Present (5 years 5 months)
+Indonesia
+
+As a Backend Engineer, I design, develop, and maintain backend services that support critical financial operations, including user balance management, deposits, withdrawals. 
+I focus on building reliable, scalable, and maintainable systems while ensuring transactions are processed accurately and consistently.
+
+Notable Activities & Contributions:
+
+-Migrated legacy backend services from PHP to Go, improving maintainability and establishing a more modern backend architecture.
+-contributed to the migration from a monolithic architecture to microservices, enabling better scalability, service isolation, and independent development.
+-contributed Migrated the stock price data feed from third-party vendor systems to a direct integration with the Indonesia Stock Exchange (IDX).
+-contributed Migrated the Stockbit Securities core system from a third-party vendor solution to an internally developed and fully maintained system.
+-Developed and maintained backend services responsible for user balance and transaction processing, including deposits, withdrawals, and balance adjustments.
+
+Technologies Used:
+Golang
+Kubernetes
+AWS
+PostgreSQL
+Timescale
+Redis
+Kafka
+NATS
+SQS
+Websocket
+Git
+Grafana
+
+Qasir.id
+Back End Developer
+June 2019 - May 2021 (2 years)
+Indonesia
+Notable Activities & Contributions:
+- Build & maintenance features for Qasir POS
+- Revamp monolithic API to microservices & migrated PHP to Go
+
+Technologies Used:
+Golang
+PHP
+GCP
+PostgreSQL
+MySQL
+Redis
+Kafka
+PubSub
+Git
+NewRelic
+
+
+RajaMobil.com
+Full Stack Developer
+February 2018 - June 2019 (1 year 5 months)
+Indonesia
+Notable Activities & Contributions:
+- Build new features for MY.Rajamobil.com (for sales)
+- Build panel for mobibagus.com website
+
+Technologies Used:
+Golang
+PHP
+Yii Framework
+GCP
+MySQL
+Redis
+AngularJS
+
+
+PT EDI Indonesia
+Full Stack Developer 
+January 2017 - February 2018 (1 year 2 months)
+Indonesia
+
+Notable Activities & Contributions:
+- Build and maintance a Procurement Request application
+
+
+Technologies Used:
+PHP
+CodeIgniter Framework
+MySQL
+Redis
+
+
+
+Surya Putra Sukses
+Full Stack Developer
+September 2014 - January 2017 (2 years 5 months)
+Indonesia
+
+Notable Activities & Contributions:
+As Full Stack Developer, my job is build and maintance:
+- Clinic Management System
+- Retail Management System
+- School Management System
+- Human Resource Management System
+- Procurement Request System
+- Local Tax Payment System
+
+
+Education
+Universitas Nasional PASIM
+Associate's degree, Management Information Systems,
+General · (2013 - 2016)

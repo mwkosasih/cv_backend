@@ -1,0 +1,14 @@
+# Environment variables (JANGAN di-push ke GitHub untuk keamanan API key)
+.env
+*.env.local
+
+# Compiled Go binary & build files
+*.exe
+*.exe~
+server
+bin/
+dist/
+
+# OS files
+.DS_Store
+Thumbs.db
