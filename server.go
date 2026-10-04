@@ -43,10 +43,35 @@ func (s *Server) setupRoutes() {
 }
 
 // Start launches the HTTP listener on the configured port
+// corsAndCleanMiddleware ensures CORS headers on every response and eliminates double-slash redirects
+func corsAndCleanMiddleware(next http.Handler) http.Handler {
+	return http.HandlerFunc(func(w http.ResponseWriter, r *http.Request) {
+		// Always attach CORS headers
+		w.Header().Set("Access-Control-Allow-Origin", "*")
+		w.Header().Set("Access-Control-Allow-Methods", "POST, GET, OPTIONS, PUT, DELETE")
+		w.Header().Set("Access-Control-Allow-Headers", "Content-Type, Authorization, X-Requested-With")
+		w.Header().Set("Access-Control-Max-Age", "86400")
+
+		// Handle preflight OPTIONS immediately with 200 OK
+		if r.Method == http.MethodOptions {
+			w.WriteHeader(http.StatusOK)
+			return
+		}
+
+		// Clean multiple consecutive slashes from URL path to prevent 301 redirects
+		for strings.Contains(r.URL.Path, "//") {
+			r.URL.Path = strings.ReplaceAll(r.URL.Path, "//", "/")
+		}
+
+		next.ServeHTTP(w, r)
+	})
+}
+
+// Start launches the HTTP listener on the configured port
 func (s *Server) Start() error {
 	addr := ":" + s.Config.Port
 	printBanner(s.Config)
-	return http.ListenAndServe(addr, s.Mux)
+	return http.ListenAndServe(addr, corsAndCleanMiddleware(s.Mux))
 }
 
 // printBanner displays the startup status
